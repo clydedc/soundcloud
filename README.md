@@ -54,5 +54,3 @@ Dans le fichier `rpc.js`, remplacez la variable `clientId` par l’ID de votre a
 
 💡 *Profitez de vos sons préférés sur SoundCloud tout en les partageant sur Discord !*
 
-```
-
