@@ -20,7 +20,7 @@ SoundCloud Discord Rich Presence est une application Electron qui permet d’aff
 
 1. Clonez le dépôt :
    ```bash
-   git clone <url-du-repo>
+   git clone https://github.com/clydedc/soundcloud.git
    cd soundcloud
 
 2. Installez les dépendances :
