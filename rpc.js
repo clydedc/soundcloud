@@ -24,7 +24,7 @@ function setActivity(trackTitle = "Rien", artist = "Inconnu", backgroundImage = 
   const activity = {
     details: `🎵 ${trackTitle}`,
     state: `👤 ${artist}`,
-    largeImageKey: backgroundImage || 'soundcloud', // Utilise une image statique uploadée dans Discord Developer Portal
+    largeImageKey: backgroundImage || 'soundcloud',
     largeImageText: backgroundImage || 'SoundCloud',
     instance: true,
   };
